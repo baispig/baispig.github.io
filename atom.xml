@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">WANG BAI Couple</title>
+    <subtitle type="html">Long live the Love</subtitle>
+    <updated>2020-11-07T10:47:06&#43;08:00</updated>
+    <id>https://baispig.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://baispig.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://baispig.github.io/atom.xml" />
+    
+    
+    <generator uri="https://gohugo.io/" version="0.78.1">Hugo</generator>
+</feed>
